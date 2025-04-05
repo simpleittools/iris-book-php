@@ -1,5 +1,5 @@
 <b>Contents</b> <br/>
-<a href="iris-gos.html#4">What is Iris </a><b></b>
+<a href="./content/what-is-iris.php">What is Iris </a><b></b>
 <br/>
 <b>Getting started<br/></b><a href="iris-gos.html#4">Installation </a><b><br/></b>
 <a href="iris-gos.html#5">Quick start</a> 
